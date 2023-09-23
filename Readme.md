@@ -1,4 +1,4 @@
-# Sample Template Mod
+# Darkness Improved
 Darkness Spell improved to be able to target items (As it should be).
 
 ## Contributing
