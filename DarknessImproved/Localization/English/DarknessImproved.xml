@@ -1,8 +1,4 @@
-<!--
-  You'll want to use Modder's Multitool to generate the contentuid value, by ticking the "Handle" checkbox and hitting Generate
--->
-
-<contentList date="23/9/2023 18:38">
+<contentList date="26/10/2020 01:10">
   <content contentuid="h1de22cecg918cg4ca5ga92dgf5357de6cf2b" version="1">Darkness Improved Debug Text 1</content>
   <content contentuid="9675988f-0070-4913-8536-6cbd884847cc" version="1">Darkness Improved Debug Text 2</content>
   <content contentuid="hc233cbd5g0bdfg4b6eg944fg19bddd007fd6" version="1">Darkness Improved Debug Text 3</content>
