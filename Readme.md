@@ -1,15 +1,8 @@
 # Sample Template Mod
-[![GitHub release](https://img.shields.io/github/v/tag/BG3-Community-Library-Team/Sample-Template?label=Latest%20Version)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/releases/) [![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/Sample-Template/1.0.0/main)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/commit/)
-
-This is a Readme Template. Replace this paragraph with an introduction to your mod, and a short description to help users and potential collaborators understand understand it's purpose.
-
-## Note For Mod Authors:
-You're welcome to use this mod as a template for your own creations. In GitHub, hit the "Fork" button, and it will walk you through creating your own Repository, which you can Clone to your PC and start modding with.
-
-[![GitHub forks](https://img.shields.io/github/forks/BG3-Community-Library-Team/Sample-Template)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/network/)
+Darkness Spell improved to be able to target items (As it should be).
 
 ## Contributing
-If you want people to be able to contribute to your mod, explain how here.
+(Coming Soon...)
 
 ## Installation
 This mod works with [Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager), and possibly Vortex and Manual
