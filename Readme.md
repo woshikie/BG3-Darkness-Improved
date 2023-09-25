@@ -2,7 +2,8 @@
 Darkness Spell improved to be able to target items (As it should be).
 
 ## Contributing
-(Coming Soon...)
+Mod is redundant as it is also implemented in [5e Spells mod](https://www.nexusmods.com/baldursgate3/mods/125), under ﻿5e Spells Adjust.
+As such, this repository will be archived.
 
 ## Installation
 This mod works with [Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager), and possibly Vortex and Manual
